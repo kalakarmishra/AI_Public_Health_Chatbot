@@ -1,9 +1,0 @@
-{
-  "0": "ask_prevention_dengue",
-  "1": "ask_prevention_malaria",
-  "2": "ask_symptoms_dengue",
-  "3": "ask_symptoms_malaria",
-  "4": "ask_vaccination_info",
-  "5": "greet",
-  "6": "outbreak_alert"
-}
