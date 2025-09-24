@@ -1,0 +1,11 @@
+version: "3.0"
+stories:
+- story: User asks vaccination info
+  steps:
+  - intent: ask_vaccination
+  - action: action_fetch_vaccination
+
+- story: User asks outbreak info
+  steps:
+  - intent: ask_outbreak
+  - action: action_fetch_outbreak_data

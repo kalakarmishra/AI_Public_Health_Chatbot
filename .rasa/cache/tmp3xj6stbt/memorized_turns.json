@@ -1,0 +1,23 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1flpicnJmXCFaXmZeWX1sbCwC1XSGm": "utter_vaccination_info",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1flpicnJmXCFaXmZeWX0vAyNKSktQiTF1Emh0LADGQRVw=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fXJlbUJKfWxyfm5iTWJSZWFsbCwC4uSHO": "utter_symptoms_malaria",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fXJlbUJKfWxyfm5iTWJSZWEvAyNKSktQiTF1Emh0LAE/0RdQ=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohv7QkqSg1MTs+MSe1qKSWOMPSUkuSM+LhWlMSSxIJmxwLAAmxQgM=": "utter_outbreak_alert",
+    "eJyljMEJgDAQBFtJAVaQVkSOU08MapTLxk9I7wYUH34U/O3AztQpVyZtKjtxB7d6a9I5yPMi1lwwuwDx5RuDaPk4XxDWrBGtCk/Esyjyt9gg6Ea61Z7Bf8sREKWH89psDggeYo8=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPT8/JakytbY2FgAh+hxX": "utter_goodbye",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPT8/JakytZaAKaUlJalF8TDFuE2JBQCMqTcN": "action_listen",
+    "eJyFjEEKgDAMBL+SB/iCfkUkRMmhtKaSpF5K/25BPfe2A7Oztr5Au5RvpMNjkQDtHSh0coAPcjRnGW411uFEGegBSvVdmRJSZvU+iVV3ViRL+P/mxe0BB+k+9Q==": "action_fetch_outbreak_data",
+    "eJyljMsJgDAQBVtJAVaQVkSWVVcMapTNi5eQ3g34uebg7Q3MmzblxqRD5SQe4HZvTboHed7EmgdWFyC+uDGIFsf5grBmj+hVeCFeRZErsQiIEoeF3t/f4gOTYJi/KI0Mrpe7C0NwYbY=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB0P0g3kgJSlpOall6bW1sYCANmFIi0=": "utter_prevention_dengue",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB0P0g3kgJSlpOall6bWEjCztKQktQiLNmJNjwUAHSVG8Q==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fXJlbUJKfWxyfkpqXXppaWxsLAJcfIW8=": "utter_symptoms_dengue",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB1fXJlbUJKfWxyfkpqXXppaS8DE0pKS1CIMTcSZHAsAgpNEtw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB0P0g3kgJTlJuYkFmUm1tbGAgD73SKM": "utter_prevention_malaria",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3BChdnB0P0g3kgJTlJuYkFmUm1hIwtLSkJLUImz6izY8FAPElSA4=": "action_listen"
+  }
+}

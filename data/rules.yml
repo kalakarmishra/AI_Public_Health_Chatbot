@@ -1,0 +1,12 @@
+version: "3.0"
+
+rules:
+- rule: Respond to outbreak alert
+  steps:
+  - intent: outbreak_alert
+  - action: action_fetch_outbreak_data
+
+- rule: Respond to greet
+  steps:
+  - intent: greet
+  - action: utter_greet

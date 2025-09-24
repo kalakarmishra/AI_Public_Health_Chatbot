@@ -1,0 +1,25 @@
+version: "3.0"
+
+intents:
+  - greet
+  - goodbye
+  - ask_vaccination
+  - ask_outbreak
+
+actions:
+  - action_fetch_vaccination
+  - action_fetch_outbreak_data
+
+responses:
+  utter_greet:
+    - text: "👋 Hello! I can help you with vaccination schedules and disease outbreak info."
+
+  utter_goodbye:
+    - text: "👋 Take care! Stay healthy."
+
+  utter_default:
+    - text: "❓ Sorry, I didn’t understand that. Can you rephrase?"
+actions:
+  - action_fetch_vaccination
+  - action_fetch_outbreak_data
+  - action_fetch_symptoms
